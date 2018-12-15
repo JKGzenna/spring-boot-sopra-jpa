@@ -1,4 +1,5 @@
 # spring-boot-sopra-jpa
+
 Proyecto terminado con Spring Boot, MVC, Security, JPA, Hibernate,  Thymeleaf, BootStrap, js para autocompletados, 
 Spring Rest, internacionalización i18n, Spring Loaded y Exportación a Pdf, Json, XML, XLS, CSV y Fichero Plano.  
 
