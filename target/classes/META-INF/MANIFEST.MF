@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-sopra-jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JK Gzenna
+Implementation-Vendor-Id: com.sopra.springboot.app
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-sopra-jpa
+Created-By: Maven Integration for Eclipse
+
