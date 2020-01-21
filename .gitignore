@@ -21,6 +21,8 @@ build/
 nbbuild/
 dist/
 nbdist/
+target/
 .nb-gradle/
 /.metadata/
-target/
+*.jar
+*.war
