@@ -100,6 +100,11 @@
 		
 		<!-- Dependencias para compilar en WAR - Comentar para compilar en JAR -->
 		<dependency>
+     		<groupId>org.hibernate.validator</groupId>
+     		<artifactId>hibernate-validator-cdi</artifactId>
+     		<version>6.1.1.Final</version>
+  		</dependency>
+		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
 			<scope>provided</scope>
