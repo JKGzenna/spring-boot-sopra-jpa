@@ -4,11 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sopra.springboot.app</groupId>
-	<artifactId>spring-boot-sopra-jpa</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>spring-boot-jpa</artifactId>
 	<packaging>war</packaging>
 
-	<name>spring-boot-sopra-jpa</name>
+	<name>spring-boot-jpa</name>
 	<description>Demo project for Spring Boot</description>
 	
 	<parent>
@@ -154,4 +153,5 @@
 		</pluginRepository>
 	</pluginRepositories>
 	
+	<version>1.0</version>
 </project>
