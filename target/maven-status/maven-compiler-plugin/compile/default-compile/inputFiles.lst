@@ -1,35 +1,35 @@
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\service\UploadFileServiceImpl.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\dao\IProductoDao.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\json\ClienteListJsonView.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\controllers\FacturaController.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\auth\handler\LoginSuccessHandler.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\ItemFactura.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\dao\IFacturaDao.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\service\JpaUserDetailsService.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\Role.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\pdf\FacturaPdfView.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\Usuario.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\service\IUploadFileService.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\xml\ClienteList.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\util\paginator\PageItem.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\Producto.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\controllers\ClienteController.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\dao\IUsuarioDao.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\csv\ClienteCsvView.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\SpringBootDataJpaApplication.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\cryptconverter\CrytoPasswords.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\controllers\LocaleController.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\batch\RequestTimeInterceptor.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\controllers\ClienteRestController.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\service\IClienteService.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\Factura.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\service\ClienteServiceImpl.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\Cliente.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\xml\ClienteListXmlView.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\dao\IClienteDao.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\MvcConfig.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\batch\TaskComponent.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\controllers\LoginController.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\util\paginator\PageRender.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\xlsx\FacturaXlsxView.java
-C:\springboot\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\SpringSecurityConfig.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\service\JpaUserDetailsService.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\xml\ClienteList.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\SpringSecurityConfig.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\service\UploadFileServiceImpl.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\xml\ClienteListXmlView.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\controllers\ClienteController.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\json\ClienteListJsonView.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\service\IClienteService.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\batch\TaskComponent.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\Cliente.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\MvcConfig.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\csv\ClienteCsvView.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\dao\IClienteDao.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\cryptconverter\CrytoPasswords.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\dao\IFacturaDao.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\controllers\FacturaController.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\service\ClienteServiceImpl.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\batch\RequestTimeInterceptor.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\service\IUploadFileService.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\Role.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\controllers\ClienteRestController.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\pdf\FacturaPdfView.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\auth\handler\LoginSuccessHandler.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\SpringBootDataJpaApplication.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\util\paginator\PageRender.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\view\xlsx\FacturaXlsxView.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\dao\IProductoDao.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\controllers\LocaleController.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\Usuario.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\controllers\LoginController.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\util\paginator\PageItem.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\Producto.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\dao\IUsuarioDao.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\Factura.java
+C:\Users\JK Gzenna\Documents\GitHub\spring-boot-sopra-jpa\src\main\java\com\sopra\springboot\app\models\entity\ItemFactura.java
