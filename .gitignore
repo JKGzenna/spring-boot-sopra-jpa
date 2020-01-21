@@ -25,3 +25,4 @@ target/
 .nb-gradle/
 /.metadata/
 *.jar
+*.war
