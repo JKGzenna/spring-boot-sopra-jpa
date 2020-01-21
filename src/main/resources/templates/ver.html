@@ -19,7 +19,7 @@
 						th:text="#{text.cliente.factura.crear}"></a>
 				</h4>
 
-				<img th:if="${#substring.length(cliente.foto) > 0}"
+				<img th:if="${#strings.length(cliente.foto) > 0}"
 					class="img-thumbnail rounded float-left" style="max-width: 25%;"
 					th:src="@{'/uploads/' + ${cliente.foto}}" th:alt="${cliente.foto}" />
 
