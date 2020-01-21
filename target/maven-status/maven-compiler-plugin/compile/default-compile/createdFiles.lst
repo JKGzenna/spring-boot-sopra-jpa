@@ -26,7 +26,6 @@ com\sopra\springboot\app\models\entity\Producto.class
 com\sopra\springboot\app\view\xlsx\FacturaXlsxView.class
 com\sopra\springboot\app\MvcConfig.class
 com\sopra\springboot\app\models\dao\IProductoDao.class
-com\sopra\springboot\app\batch\TaskComponent.class
 com\sopra\springboot\app\util\paginator\PageItem.class
 com\sopra\springboot\app\models\dao\IClienteDao.class
 com\sopra\springboot\app\models\service\JpaUserDetailsService.class
