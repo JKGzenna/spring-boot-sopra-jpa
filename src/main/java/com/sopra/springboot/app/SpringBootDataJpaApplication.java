@@ -1,9 +1,11 @@
 package com.sopra.springboot.app;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.CommandLineRunner;
-import org.springframework.boot.SpringApplication;
+//import org.springframework.boot.CommandLineRunner;
+//import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.builder.SpringApplicationBuilder;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 import org.springframework.scheduling.annotation.EnableScheduling;
 //import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
@@ -27,19 +29,32 @@ import com.sopra.springboot.app.models.service.IUploadFileService;
  */
 @EnableScheduling
 @SpringBootApplication
-public class SpringBootDataJpaApplication implements CommandLineRunner {
 
+	//descomentar para compilar en jar
+	//public class SpringBootDataJpaApplication implements CommandLineRunner {
+	//comentar para compilar en jar
+	public class SpringBootDataJpaApplication extends SpringBootServletInitializer {
+	
+	@Override
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+			return application.sources(SpringBootDataJpaApplication.class);
+	}
+
+	
+	
 	@Autowired
 	IUploadFileService uploadFileService;
 	
 //	@Autowired
 //	private BCryptPasswordEncoder passwordEncoder;
+	
+//	COMENTAR PARA DESPLEGAR EN WAR Y DESCOMENTAR PARA DESPLEGAR EN JAR
+//	public static void main(String[] args) {
+//		SpringApplication.run(SpringBootDataJpaApplication.class, args);
+//	}
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringBootDataJpaApplication.class, args);
-	}
-
-	@Override
+//	descomentar para compilar en jar
+//	@Override
 	public void run(String... args) throws Exception {
 		
         /* DESCOMENTAR ESTO SI QUEREMOS QUE NOS DESTRUYA 
