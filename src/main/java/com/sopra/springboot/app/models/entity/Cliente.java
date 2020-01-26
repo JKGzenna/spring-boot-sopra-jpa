@@ -18,8 +18,8 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 import javax.validation.constraints.NotNull;
 
-//import javax.validation.constraints.Email;
-//import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotEmpty;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
@@ -34,18 +34,18 @@ public class Cliente implements Serializable {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
-	
-	@NotNull
-//	@NotEmpty
+//	comentar si no se usa wildfly
+//	@NotNull
+	@NotEmpty
 	private String nombre;
-	
-	@NotNull
-//	@NotEmpty
+//	comentar si no se usa wildfly
+//	@NotNull
+	@NotEmpty
 	private String apellido;
-	
-	@NotNull
-//	@NotEmpty
-//	@Email
+//	comentar si no se usa wildfly
+//	@NotNull
+	@NotEmpty
+	@Email
 	private String email;
 
 	@NotNull

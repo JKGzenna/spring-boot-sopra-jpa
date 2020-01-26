@@ -5,7 +5,6 @@
 
 	<groupId>com.sopra.springboot.app</groupId>
 	<artifactId>spring-boot-jpa</artifactId>
-	<packaging>war</packaging>
 
 	<name>spring-boot-jpa</name>
 	<description>Demo project for Spring Boot</description>
@@ -25,11 +24,12 @@
 	</properties>
 	
 	<dependencies>
-<!-- Para compilar en JAR -->
-<!-- 		<dependency> -->
-<!-- 			<groupId>org.springframework.boot</groupId> -->
-<!-- 			<artifactId>spring-boot-starter-web</artifactId> -->
-<!-- 		</dependency> -->
+		<!-- Para compilar en JAR - Comentar para compilar en WAR -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<!-- Fin de para compilar en JAR - Comentar para compilar en WAR -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
@@ -99,36 +99,36 @@
 		</dependency>
 		
 		<!-- Dependencias para compilar en WAR - Comentar para compilar en JAR -->
-		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>javax.servlet-api</artifactId>
-			<scope>provided</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-			<exclusions>
-				<exclusion>
-					<groupId>org.springframework.boot</groupId>
-					<artifactId>spring-boot-starter-tomcat</artifactId>
-				</exclusion>
-			</exclusions>
-		</dependency>
+<!-- 		<dependency> -->
+<!-- 			<groupId>javax.servlet</groupId> -->
+<!-- 			<artifactId>javax.servlet-api</artifactId> -->
+<!-- 			<scope>provided</scope> -->
+<!-- 		</dependency> -->
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.springframework.boot</groupId> -->
+<!-- 			<artifactId>spring-boot-starter-web</artifactId> -->
+<!-- 			<exclusions> -->
+<!-- 				<exclusion> -->
+<!-- 					<groupId>org.springframework.boot</groupId> -->
+<!-- 					<artifactId>spring-boot-starter-tomcat</artifactId> -->
+<!-- 				</exclusion> -->
+<!-- 			</exclusions> -->
+<!-- 		</dependency> -->
 		<!-- Fin de dependencias para compilar en WAR - Comentar para compilar en JAR -->
 
 	</dependencies>
 	
-<!-- Para compilar en JAR -->
+<!-- Para compilar en JAR - Comentar para compilar en WAR-->
 <!-- comentado para compilación WAR y descomentado para compilación JAR -->
-
-<!-- 	<build> -->
-<!-- 		<plugins> -->
-<!-- 			<plugin> -->
-<!-- 				<groupId>org.springframework.boot</groupId> -->
-<!-- 				<artifactId>spring-boot-maven-plugin</artifactId> -->
-<!-- 			</plugin> -->
-<!-- 		</plugins> -->
-<!-- 	</build> -->
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+<!-- Fin de para compilar en JAR - Comentar para compilar en WAR-->
 	
 	
 	<repositories>
