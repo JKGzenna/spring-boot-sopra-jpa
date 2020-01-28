@@ -60,7 +60,9 @@ import com.sopra.springboot.app.models.service.IUploadFileService;
         /* DESCOMENTAR ESTO SI QUEREMOS QUE NOS DESTRUYA 
 		LA CARPETA UPLOADS CADA VEZ QUE ARRANQUE Y PARE */
 //		uploadFileService.deleteAll();
-		uploadFileService.init();
+		
+		
+//		uploadFileService.init();
 		
 		
 		
