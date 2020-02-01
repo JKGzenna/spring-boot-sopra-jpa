@@ -59,12 +59,14 @@ import com.sopra.springboot.app.models.service.IUploadFileService;
 		
         /* DESCOMENTAR ESTO SI QUEREMOS QUE NOS DESTRUYA 
 		LA CARPETA UPLOADS CADA VEZ QUE ARRANQUE Y PARE */
-		uploadFileService.deleteAll();
+//		uploadFileService.deleteAll();
+		
 		
 		//EJECUTAR LA PRIMERA VEZ CON ESTA LINEA PARA QUE NOS CREE LA CARPETA UPLOADS, COMENTARLA PARA SEGUNDOS ARRANQUES
 		uploadFileService.init();
 		
-	
+		
+		
 		/* Con este método le hemos dicho que nos de 2 claves para esa contraseña segun arranque, las 
 		 * cuales usé para crear los 2 primeros usuarios del import, si quereis generar claves de forma
 		 * mas limpia he creado la clase CrytoPasswords en el paquete cryptconverter y desde alli
