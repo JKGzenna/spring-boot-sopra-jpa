@@ -63,7 +63,7 @@ import com.sopra.springboot.app.models.service.IUploadFileService;
 		
 		
 		//EJECUTAR LA PRIMERA VEZ CON ESTA LINEA PARA QUE NOS CREE LA CARPETA UPLOADS, COMENTARLA PARA SEGUNDOS ARRANQUES
-		uploadFileService.init();
+//		uploadFileService.init();
 		
 		
 		
