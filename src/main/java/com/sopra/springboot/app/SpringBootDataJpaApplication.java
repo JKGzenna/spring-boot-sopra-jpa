@@ -61,8 +61,8 @@ import com.sopra.springboot.app.models.service.IUploadFileService;
 		LA CARPETA UPLOADS CADA VEZ QUE ARRANQUE Y PARE */
 //		uploadFileService.deleteAll();
 		
-		//EJECUTAR LA PRIMERA VEZ CON ESTA LINEA PARA QUE NOS CREE LA CARPETA UPLOADS, COMENTARLA PARA SEGUNDOS ARRANQUES
-//		uploadFileService.init();
+		//EJECUTAR LA SEGUNDA VEZ CON ESTA LINEA PARA QUE NOS CREE LA CARPETA UPLOADS, COMENTARLA PARA EL PRIMER ARRANQUE
+		uploadFileService.init();
 		
 		
 		
