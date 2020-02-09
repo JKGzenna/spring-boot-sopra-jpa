@@ -62,7 +62,7 @@ import com.sopra.springboot.app.models.service.IUploadFileService;
 //		uploadFileService.deleteAll();
 		
 		
-		//EJECUTAR LA PRIMERA VEZ CON ESTA LINEA PARA QUE NOS CREE LA CARPETA UPLOADS, COMENTARLA PARA SEGUNDOS ARRANQUES
+		//EJECUTAR LA SEGUNDA VEZ CON ESTA LINEA PARA QUE NOS CREE LA CARPETA UPLOADS, COMENTARLA PARA EL PRIMER ARRANQUE
 //		uploadFileService.init();
 		
 		
