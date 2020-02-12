@@ -1,61 +1,33 @@
-                                                                                                 
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                          ``...--:::::::::::---..`                                                    
-                                                                  `.-:/+osssyyyyyyyyyyyyyyyyyyyyyss+/.`                                               
-                                                             `-:+osyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys:`                                             
-                                         `.-:://///::--..`./osyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyo`                                            
-                                       `:/+++++++++++++:. `..:/ossyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys`                                           
-                                       :+++++++++++++:`          `.-/osyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy+                                           
-                                       /++++++++++++/                 `.-/+syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy`                                          
-                                       .++++++++++++.                      ``-:+syyyyyyyyyyyyyyyyyyyyyyyyyy-                                          
-                                        ./++++++++++.                            `-:+syyyyyyyyyyyyyyyyyyyyy-                                          
-                                         `-/++++++++/                                 `-:+ssyyyyyyyyyyyyyyy`                                          
-                                           `.:/++++++-                                     `.-/ossyyyyyyys-                                           
-                                              `-/+++++-                                          `.--:/:-`                                            
-                                                 `-//++:`                                                                                             
-                                                    `.://.                                 .-`                                                        
-                                                        .-`                                 -//:.`                                                    
-                                                                                             `/++/:-`                                                 
-                                            .://::-``                                         `/+++++:-`                                              
-                                           +yyyyyyyyys+/-.`                                     /+++++++:.                                            
-                                          /yyyyyyyyyyyyyyyyo+:.`                                `+++++++++/.                                          
-                                          oyyyyyyyyyyyyyyyyyyyyys+:.`                            /++++++++++:`                                        
-                                          oyyyyyyyyyyyyyyyyyyyyyyyyyys+:.`                       /+++++++++++/`                                       
-                                          /yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys+:-`                 .+++++++++++++-                                       
-                                          `yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyso/-.           -++++++++++++++.                                       
-                                           -yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys+/:.` `-/+++++++++++++/.                                        
-                                            -yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys+:```.--::::/:::-.`                                          
-                                             `+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys+/-`                                                              
-                                                -/+syyyyyyyyyyyyyyyyyyyyyyyso+/:-`                                                                    
-                                                     ``.---:::::::---..``                                                                             
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                         -/+ooo+/-       `:/+oo+/-`    /+: -/+oo+:.    .++. -/++.  `:/ooo/-`-++`                                      
-                                       :mNmhyyyhmNm+   :hNNmdhhdNNms.  mMNmNmhhhdNNd/  :MMhmNNdd:.yNMmhhhdNmdMM`                                      
-                                       dMM+`    `/:.  /NMh-``  ``/mMm. mMMh-`   `.sMMo :MMMy-```-NMd:`   `.sMMM`                                      
-                                       :hNNNdhyo+:-   NMm`        -MMy mMN`        dMN :MMy     hMM.        hMM`                                      
-                                        `.-/+syhdNNd: NMd         .MMh mMm         dMM :MM+     dMM`        yMM`                                      
-                                       .::      `:MMm sMMo`      .hMM: mMMo`     `+MMy :MM+     /MMy.      /NMM`                                      
-                                       oNNdyooooymMm/ `omMmyoooshNMd/  mMNmmyoooymMNs` :MM+      /mMNhsooydNNMM`                                      
-                                        .+shdddhhs/.    .:oyhdhhyo-`   mMd./shhhys/.   -hh:       `:oyhhhy+-/hh`                                      
-                                            ```              ``        mMd                 -:-                                                        
-                                                        /o+            sho                .NMN-                                                       
-                                            ```         dMm           ```                  :o/        ``                                              
-                                        .+ydddddhs/. /ddNMMdddd.  -+ydmmddy/.   /dd-:shdd- ydy    -+yddddho-sdy                                       
-                                       :NMd+:::/odmy`-++mMN++++``yNNds+/+smMm+  oMMmNdyo+. mMm  `yNMdo//+sdNMMd                                       
-                                       /MMd/-..` `.     dMm     hMN/``````.yMM/ oMMm:`     mMm  hMN/      `+MMd                                       
-                                        :ydmmmmmdho:`   dMm    .MMNddddddddmMMh oMM/       mMm `MMh         mMd                                       
-                                           `.-:/oyNMd`  dMm    `NMm:::::::::::- oMM:       mMm  NMm`       .NMd                                       
-                                       -oy:.````.-NMN.  hMN-``` +NMh/.````./s-  oMM:       mMm  +NMh:.```./dMMd                                       
-                                       .ymNmddddmNNd:   -dNNddd: -ymNNmddmNNd+  oMM:       mMm   -ymNmdddmmhmMd                                       
-                                         `-/+oo+/:.      `-////`   `-:/++/:.    -++`       ///     `-//+/:. :+:                                       
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                     
+
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                          .                                                             
+                                                         `y/                                                            
+                                                         -hy+                                                           
+                                                         `yhyo`                                                         
+                                                      +.  -yhho`                                                        
+                                                     -ys.  .shhs.                                                       
+                                                     .yhy-  `ohhy`                                                      
+                                                `.--  +yhy:  `+yh+-.`                                                   
+                                             `:+syyy`  /yhy/  `shhyyso:.                                                
+                                           `+yyhhhhho`  :yhy+` +hhhhhhyy+.                                              
+                                          `shhhhhhhhho`  -yhho.shhhhhhhhhs.                                             
+                                          -hhhhhhhhhhhs.  .yhhshhhhhhhhhhh:                                             
+                                          `oyhhhhhhhhhhy-  +hhhhhhhhhhhhhs`                                             
+                                           `/syhhhhhhhhhy: +hhhhhhhhhhys/`                                              
+                                             `-/osyyhhhhhy+yhhhhhyyys+-`                                                
+                                                 `.-:/+ooooooo+//-.`                                                    
+                                                                                                                        
+                 .:++++/-                        /+`                                /+.                                 
+                -yy/:-:/:     `````     ````    `yh.       ````     `````        ```yh.    ```      ````                
+                :ys.`      `:+ooooo+  /oooooo/` `yho++: ./oooooo. .oooooo+-   -+ooooyh.  :+oooo/` `+oooo:               
+                `/syo+:.   oho-.`:hy  sh/``.+ho `yh:..`-yy:.`.sh: -hs.`.-yy. /ys-.`.yh. +y+.../hs``yy-```               
+                   .:+sy+`.hy`   -hy  sh:   -hy `yh.   oh/    sh: -hs    sh: yh-    yh.`yho+++oyy``yy.                  
+                      `yh:.yy.   -hy  sh:   -hy `yh.   +h+    sh: -hs    sh: sh/    yh. sh+-...-- `yy.                  
+                :o++/+oyo` :yy+//oys  sy:   -ys  oys//-.oyo//+yy: -ys    sy: .sy+//+yy. .syo///+/ `yy.                  
+                `-::::-.    `-::-`--  --`   `--   .:::`  .:::..-` `--    --`   -::-`--`   .-:::-`  --`                  
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        

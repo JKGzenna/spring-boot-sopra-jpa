@@ -86,18 +86,22 @@
 
 	<footer th:fragment="footer" class="container">
 		<hr />
-		<img th:src="@{/images/spring.png}" alt="Spring logo" />
+		<img th:src="@{/images/santander.jpg}" alt="Spring logo" />
 		<p sec:authorize="isAuthenticated()">
 			<span th:text="#{text.footer.user}">Usuario logeado:</span> <span sec:authentication="name"></span> | <span th:text="#{text.footer.roles}">Roles:</span> <span
 				sec:authentication="principal.authorities"></span>
 		</p>
 		<p th:utext="#{text.footer.powered}">
-			Powered by <a href="https://projects.spring.io/spring-boot/">Spring
-				Boot</a> y <a href="http://www.thymeleaf.org">Thymeleaf</a>.
+			Escrito con 
+			<a href="https://projects.spring.io/spring-boot/">Spring Boot-MVC-JPA</a> y 
+			<a href="http://www.thymeleaf.org">Thymeleaf</a><br />En colaboraciÃ³n con 
+			<a href="https://www.bancosantander.es/es/particulares">Banco Santander</a> y 
+			<a href="https://github.com/JKGzenna">JKGzenna </a>
 		</p>
 		<p th:utext="#{text.footer.copy}">
-			Este proyecto fue desarrollado en IDE Eclipse + Spring Tool Suite (STS), Profesor Juan Luis Goldaracena.<br /> 
-			&copy; 2018. Todos los derechos reservados. Términos de uso y privacidad.<br />
+			Este proyecto ha sido desarrollado en Eclipse IDE con Spring Tools Suite (STS) por 
+			<a href="https://github.com/JKGzenna/"> Juan Luis Goldaracena Izquierdo.</a> 
+			<br /> &copy; 2020. Todos los derechos reservados. TÃ©rminos de uso y privacidad. <br />
 		</p>
 		<!-- Optional JavaScript -->
 		<!-- jQuery first, then Bootstrap JS -->

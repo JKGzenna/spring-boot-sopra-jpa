@@ -3,17 +3,16 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.sopra.springboot.app</groupId>
-	<artifactId>spring-boot-jpa</artifactId>
+	<groupId>com.santander.apps</groupId>
+	<artifactId>sb-jpa-santander-clientes</artifactId>
 
-	<name>spring-boot-jpa</name>
-	<description>Demo project for Spring Boot</description>
+	<name>sb-jpa-santander-clientes</name>
+	<description>Gestión de Clientes Santander</description>
 	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 	    <version>2.0.1.RELEASE</version>
-<!-- 	<version>2.1.1.RELEASE</version> -->
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	

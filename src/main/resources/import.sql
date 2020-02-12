@@ -1,5 +1,6 @@
-/* Populate tables */
+/* Ingesta de datos iniciales en tablas */
 INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Juan', 'Goldaracena', 'juanlu360@gmail.com', '2017-08-01', '');
+INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Iván', 'Idigoras', 'ivan@idigoras.com', '2017-08-03', '');
 INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Cayetana', 'Goldaracena', 'cayetana@gmail.com', '2017-08-02', '');
 INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Leticia', 'Garcia', 'lg@gmail.com', '2017-08-03', '');
 INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Jane', 'Doe', 'jane.doe@gmail.com', '2017-08-04', '');
@@ -26,7 +27,7 @@ INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('John', '
 INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Richard', 'Roe', 'stiles.roe@gmail.com', '2017-08-25', '');
 
 /* Populate tabla productos */
-INSERT INTO productos (nombre, precio, create_at) VALUES('Panasonic Pantalla LCD', 1799, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES('Panasonic Pantalla LCD', 680, NOW());
 INSERT INTO productos (nombre, precio, create_at) VALUES('Sony Camara digital DSC-W320B', 230, NOW());
 INSERT INTO productos (nombre, precio, create_at) VALUES('Apple iPod shuffle', 90, NOW());
 INSERT INTO productos (nombre, precio, create_at) VALUES('Sony Notebook Z110', 799, NOW());
