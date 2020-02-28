@@ -1,6 +1,6 @@
 /* Ingesta de datos iniciales en tablas */
 INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Juan', 'Goldaracena', 'juanlu360@gmail.com', '2017-08-01', '');
-INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Iván', 'Idigoras', 'ivan@idigoras.com', '2017-08-03', '');
+INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Ivan', 'Idigoras', 'ivan@idigoras.com', '2017-08-03', '');
 INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Cayetana', 'Goldaracena', 'cayetana@gmail.com', '2017-08-02', '');
 INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Leticia', 'Garcia', 'lg@gmail.com', '2017-08-03', '');
 INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES('Jane', 'Doe', 'jane.doe@gmail.com', '2017-08-04', '');
