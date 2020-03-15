@@ -3,11 +3,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.santander.apps</groupId>
-	<artifactId>sb-jpa-santander-clientes</artifactId>
+	<groupId>com.lafargeholcim.apps</groupId>
+	<artifactId>sb-jpa-lh-clientes</artifactId>
 
-	<name>sb-jpa-santander-clientes</name>
-	<description>Gestión de Clientes Santander</description>
+	<name>sb-jpa-lh-clientes</name>
+	<description>Gestión de Clientes LafargeHolcim</description>
 	
 	<parent>
 		<groupId>org.springframework.boot</groupId>

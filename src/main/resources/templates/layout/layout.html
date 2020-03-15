@@ -4,7 +4,7 @@
 <head th:fragment="head">
 <meta charset="UTF-8" />
 <title
-	th:text="'Santander Clientes - ' + ${titulo}"></title>
+	th:text="'LafargeHolcim Clientes - ' + ${titulo}"></title>
 <link rel="stylesheet" th:href="@{/css/bootstrap.min.css}" />
 <link rel="stylesheet" th:href="@{/css/jquery-ui.min.css}" />
 </head>
@@ -12,7 +12,7 @@
 
 	<header th:fragment="header">
 		<nav class="navbar navbar-expand-md navbar-dark bg-dark">
-			<a class="navbar-brand" th:href="@{/login}">Santander Clientes</a>
+			<a class="navbar-brand" th:href="@{/login}">LafargeHolcim Clientes</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse"
 				aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -86,7 +86,7 @@
 
 	<footer th:fragment="footer" class="container">
 		<hr />
-		<img th:src="@{/images/santander.jpg}" alt="Spring logo" />
+		<img th:src="@{/images/lafargeholcim.jpg}" alt="LafargeHolcim logo" />
 		<p sec:authorize="isAuthenticated()">
 			<span th:text="#{text.footer.user}">Usuario logeado:</span> <span sec:authentication="name"></span> | <span th:text="#{text.footer.roles}">Roles:</span> <span
 				sec:authentication="principal.authorities"></span>
@@ -95,8 +95,8 @@
 			Escrito con 
 			<a href="https://projects.spring.io/spring-boot/">Spring Boot-MVC-JPA</a> y 
 			<a href="http://www.thymeleaf.org">Thymeleaf</a><br />En colaboraciÃ³n con 
-			<a href="https://www.bancosantander.es/es/particulares">Banco Santander</a> y 
-			<a href="https://github.com/JKGzenna">JKGzenna </a>
+			<a href="https://www.bancosantander.es/es/particulares">LafargeHolcim</a> y 
+			<a href="https://github.com/JKGzenna">Juan Luis Goldaracena Izquierdo </a>
 		</p>
 		<p th:utext="#{text.footer.copy}">
 			Este proyecto ha sido desarrollado en Eclipse IDE con Spring Tools Suite (STS) por 
