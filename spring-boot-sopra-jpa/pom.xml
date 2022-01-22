@@ -21,7 +21,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 	</properties>
-	
+	wdwwdwdwdd
 	<dependencies>
 		<!-- Para compilar en JAR - Comentar para compilar en WAR -->
 		<dependency>
